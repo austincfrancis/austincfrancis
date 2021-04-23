@@ -2,4 +2,4 @@ I'm a Data Scientist who is passionate about writing code, solving problems, aut
 
 🔭 I’m currently a student at Lambda School.  
 📚 I’m currently learning PyTorch.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/austincfrancis/) [Gamil](afrancis23452gmail.com). 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/austincfrancis/) [Gmail](afrancis23452gmail.com). 
