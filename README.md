@@ -1,4 +1,4 @@
-## About Me
+## About
 Dedicated Data Scientist with a strong foundation in Python, SQL, Statistics, and Machine Learning Techniques. Committed to embracing and learning new technologies/frameworks.  
   
 ### Languages and Tools
