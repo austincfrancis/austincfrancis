@@ -60,15 +60,3 @@ Dedicated Data Scientist with a strong foundation in Python, SQL, Statistics, an
 <a href="https://pytorch.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="43" height="44" alt="PyTorch" title="PyTorch">
 </a>
-
-### Contact
-<a href="https://www.linkedin.com/in/austincfrancis/"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="23" height="24" alt="LinkedIn" title="LinkedIn">
-austincfrancis
-</a>
-
-<br>
-<a href="mailto:austincfrancis98@gmail.com"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="23" height="24" alt="Gmail" title="Gmail">
-austincfrancis98@gmail.com
-</a>
